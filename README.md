@@ -65,6 +65,7 @@
 			              if(o==ch1[i]){
 			                count++; }
 ## 5.流程图： 
+https://github.com/fwb623/Java5/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG
 ## 6.核心代码 ：
 
          public static void main(String args[]) throws FileNotFoundException, IOException {}//文件头
