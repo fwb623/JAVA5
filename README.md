@@ -65,7 +65,9 @@
 			              if(o==ch1[i]){
 			                count++; }
 ## 5.流程图： 
-https://github.com/fwb623/Java5/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG
+
+ ![](https://github.com/fwb623/Java5/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG)
+ 
 ## 6.核心代码 ：
 
          public static void main(String args[]) throws FileNotFoundException, IOException {}//文件头
@@ -79,6 +81,8 @@ https://github.com/fwb623/Java5/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG
                   if( ){                }//if语句
 
 ## 7.系统运行结果：
-https://github.com/fwb623/Java5/blob/main/%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.PNG
+
+ ![](https://github.com/fwb623/Java5/blob/main/%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.PNG)
+ 
 ## 8.实验感想：
 - 本次实验也是我们最后的一次实验了，通过这一次实验，我学习到了很多的知识，大部分新知识都是在第十章中，我从第十章中了解到了文件类的使用方法，文件字节输出流和输入流，还有复制文件，提取到下个文件当中，字节长度的提取，这一节，我学的很不好，我深深的认识到了我的不足，我会通过课余时间，好好学习知识，争取把我不会的知识弄懂了，弄明白了。
